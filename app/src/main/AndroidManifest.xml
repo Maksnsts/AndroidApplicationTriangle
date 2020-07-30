@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="net.learn2develop.triangle">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_start2"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".FinalActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageOne.FirstActivityInstruction"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageFour.Stage4"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageFour.FourActivityInstruction"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageFive.Stage5"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageFive.FiveActivityInstruction"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageThree.ResultActivityStage3"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageThree.Stage3Player2"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageThree.Stage3Player1"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageThree.ThirdActivityInstruction"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageTwo.ResultActivityStage2"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageTwo.Stage2Player2"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageTwo.Stage2Player1"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageTwo.SecondActivityInstruction"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".StageOne.Stage1"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    <!--  <service android:enabled="true" android:name=".BackMusic.MyService" /> -->
+  </application>
+
+  <!-- android:configChanges="keyboardHidden|orientation|screenSize" -->
+    <!-- android:screenOrientation="portrait" -->
+
+</manifest>

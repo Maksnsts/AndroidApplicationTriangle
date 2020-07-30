@@ -1,0 +1,286 @@
+<resources>
+    <string name="app_name">Triangle</string>
+    <string name="add">Add</string>
+    <string name="start_game">Старт</string>
+    <string name="stage_ii">Перейти к этапу II</string>
+    <string name="textview">TextView</string>
+    <string name="test">Test</string>
+    <string name="_2_1">Этап 2 Игрок 1</string>
+    <string name="_2_2">Этап 2 Игрок 2</string>
+    <string name="startbtnS3P2_">Передать ход Игроку 2</string>
+    <string name="InfoS3P2">Этап 3</string>
+    <string name="todo">TODO</string>
+    <string name="version">version 1.0</string>
+    <string name="infoS5">Этап V</string>
+    <string name="brs5">Начать этап V</string>
+    <string name="finalgame">Закончить</string>
+    <string name="finalggame">Завершить</string>
+    <string name="activity_final">Завершение</string>
+    <string name="menuGame">Перейти в Меню</string>
+    <string name="NextStage5">Перейти к Этапу V</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="btnchangeLang">Сменить язык</string>
+    <string name="btnName">Кнопка</string>
+
+    <string name="backStartMenu">Назад</string>
+
+    <!-- І -->
+    <string name="stage_i">Этап I</string>
+    <string name="brs1">Начать Этап I</string>
+    <string name="TextInstruction1">В Этом раунде вы будете убирать задания по очереди, то которое останется нужно выполнить</string>
+
+    <string name="nextStage_i">Перейти к этапу II</string>
+    <string name="player_1">Игрок 1</string>
+    <string name="player_2">Игрок 2</string>
+    <string name="infoStage1">Игроки должны выполнить задание</string>
+
+    <string name="Toast1Stage1">Сделайте это задание и перейдите на след. этап</string>
+    <string name="Toast2Stage1">Вы не закончили этап 1</string>
+
+    <string name="stage1drink1">Выпить 300 грамм виски на двоих</string>
+    <string name="stage1drink2">Выпить по 100 грамм виски на брудершафт + поцелуй</string>
+    <string name="stage1drink3">Выпить 300 грамм коньяка на двоих</string>
+    <string name="stage1drink4">Выпить вдвоем по стопке текилы и рассказать свою самую пъяную историю</string>
+    <string name="stage1drink5">Выпить рюмку алкоголя с живота напарника</string>
+    <string name="stage1drink6">Выпить по стакану водки</string>
+    <string name="stage1drink7">Выпить полтора литра пива на двоих</string>
+    <string name="stage1drink8">Выпить по бутылке теплого пива</string>
+
+    <string name="stage1ItemsFace1">Сделать друг другу засос</string>
+    <string name="stage1ItemsFace2">Накрасить друг другу губы</string>
+    <string name="stage1ItemsFace3">Почистить друг другу зубы</string>
+    <string name="stage1ItemsFace4">Зубами расстегнуть ремни(щериньку) друг друга</string>
+    <string name="stage1ItemsFace5">Расстегнуть ремень или бюстгалтер напарнику зубами</string>
+
+    <string name="stage1Together1">Пристегнуться наручниками(веревкой) до конца игры</string>
+    <string name="stage1Together2">Привезаться скотчем друг к другу до след. раунда</string>
+    <string name="stage1Together3">Пристегнуться ремнями до конца игры</string>
+    <string name="stage1Together4">Скрепить рукава друг друга степлером</string>
+    <string name="stage1Together5">Примотать лицо друг друга скотчем</string>
+
+    <string name="stage1Exchange1">Обменяться жвачками</string>
+    <string name="stage1Exchange2">Обменяться верхней одеждой до конца игры</string>
+    <string name="stage1Exchange3">Обменяться всеми наличными в кошельке</string>
+    <string name="stage1Exchange4">Совершить прыжок веры с завязанными глазами</string>
+    <string name="stage1Exchange5">Рассосать один чупа-чупс на двоих</string>
+    <string name="stage1Exchange6">Пустить струю воды(ртом) друг другу в лицо</string>
+
+    <string name="stage1Hurt1">Втереть друг другу в спину по кубику льда</string>
+    <string name="stage1Hurt2">Шлепнуть друг друга по попе 5 раз( каждый раз сильнее предыдущего)</string>
+    <string name="stage1Hurt3">Шлепнуть друг друга по голой спине так чтобы остался след </string>
+    <string name="stage1Hurt4">Прикрепить друг друга на кожу по пять прищепок</string>
+    <string name="stage1Hurt5">Провести остаток игры с прищепкой на носу</string>
+    <string name="stage1Hurt6">Укусить друг друга за попу</string>
+
+    <string name="stage1Sex1">Поцеловаться</string>
+    <string name="stage1Sex2">Посмотреть вместе порно</string>
+    <string name="stage1Sex3">Схватить друг друга за промежность</string>
+    <string name="stage1Sex4">Показать любимую позу в сексе на друг друге</string>
+    <string name="stage1Sex5">Раздеться до нижнего белья до конца игры</string>
+    <string name="stage1Sex6">Переодеться в пляжную одежду до конца игры</string>
+
+    <string name="stage1Eat1">Съесть стакан сахара на двоих</string>
+    <string name="stage1Eat2">Покормить друг друга желе(мед) с закрытыми глазами</string>
+    <string name="stage1Eat3">Накормить друг друга тортом с зав`язанными глазами</string>
+    <string name="stage1Eat4">Съесть доширак руками</string>
+    <string name="stage1Eat5">Накормить напарника детским пюре руками</string>
+    <string name="stage1Eat6">Покормить друг друга медом с закрытыми глазами</string>
+    <string name="stage1Eat7">Съесть по головке лука</string>
+    <string name="stage1Eat8">Съесть йогурт руками</string>
+    <string name="stage1Eat9">Съесть по половине арбуза без рук(на скорости)</string>
+    <string name="stage1Eat10">Съесть по 1 зубчика чеснока и поцеловаться</string>
+    <string name="stage1Eat11">Съесть по миске кошачьего сухого корма с молоком</string>
+
+    <!-- II -->
+    <string name="TextInstruction2">В этапе II, вы будете делать выбор по очереди, то задание которое вы оставите будет легким для вас, но станет испытанием для вашего напарника</string>
+
+    <string name="brs2">Этап II</string>
+    <string name="nextStage_ii">Начать этап II</string>
+
+
+    <string name="selectPlayer2">Начать выбор игрока 2</string>
+    <string name="ToastStage2">Нажмите кнопку "Начать выбор Игрока 2"</string>
+    <string name="challengePlayer1">Игрок 1 должен выбрать задание</string>
+    <string name="challengePlayer2">Игрок 2 должен выбрать испытание</string>
+    <string name="StopBack">После начала игры ЗАПРЕЩЕНО возвращять назад</string>
+    <string name="ToastResult">Нажмите кнопку "Результат"</string>
+    <string name="resultat">Результат</string>
+    <string name="NextStage3">Перейти к Этапу III</string>
+
+
+
+    <string name="stage2ItemsFace1">Опустить напарника лицо в торт</string>
+    <string name="stage2ItemsFace2">Обклеить напарнику все лицо скотчем</string>
+    <string name="stage2ItemsFace3">Написать картину любой частью тела напарника, кроме рук и ног</string>
+    <string name="stage2ItemsFace4">Обклеить лицо напарника леденцами</string>
+    <string name="stage2ItemsFace5">Попасть в рот напарнице вареным пельменем</string>
+    <string name="stage2ItemsFace6">Лизнуть напарнику открытый глаз</string>
+    <string name="stage2ItemsFace7">Покормить напарника медом с ладони</string>
+
+    <string name="stage2Paint1">Сделать напарнику маникюр</string>
+    <string name="stage2Paint2">Сделать полный макияж напарнику</string>
+    <string name="stage2Paint3">Дать пощечину напарнику с краской на руке</string>
+    <string name="stage2Paint4">Сделать напарнику педикюр</string>
+    <string name="stage2Paint5">Сделать напарнику аквагрим террориста</string>
+    <string name="stage2Paint6">Разрисовать лицо напарника маркером</string>
+    <string name="stage2Paint7">Нарисовать маркером мускулы на торсе напарника</string>
+    <string name="stage2Paint8">Нарисовать на лице напарници рэперсткие тату гелевой ручкой</string>
+    <string name="stage2Paint9">Сделать маркером татуировку на ягодицу напарника</string>
+    <string name="stage2Paint10">Покрасить зубы напарника черным маркером</string>
+
+    <string name="stage2Hurt1">Сделать сливу до синяка</string>
+    <string name="stage2Hurt2">Высыпать упаковку льда в штаны напарника</string>
+    <string name="stage2Hurt3">Вылить стакан кока-колы в штаны напарника</string>
+    <string name="stage2Hurt4">Положить рыбу в трусы напарнику</string>
+    <string name="stage2Hurt5">Расцарапать спину напарнику</string>
+    <string name="stage2Hurt6">Сделать эпилацию ног напарнику</string>
+    <string name="stage2Hurt7">Обмотать голову напарника скотчем</string>
+    <string name="stage2Hurt8">Склеить ладони напарника суперклеем</string>
+    <string name="stage2Hurt9">Надеть на соски напарника прищепки</string>
+
+    <string name="stage2Cut1">Покрасить волосы баллончиком</string>
+    <string name="stage2Cut2">Покрасить напарнику волосы</string>
+    <string name="stage2Cut3">Выбрить висок напарника</string>
+    <string name="stage2Cut4">Отрезать рукава одежды напарника</string>
+    <string name="stage2Cut5">Сделать напарнику три дырки на штанах</string>
+    <string name="stage2Cut6">Превратить джинсы напарника в шорты</string>
+    <string name="stage2Cut7">Разорвать напарнику нижнее белье руками</string>
+    <string name="stage2Cut8">Срезать челку напарнику</string>
+
+    <string name="stage2Other1">Вылить на голову йогурт</string>
+    <string name="stage2Other2">Обмотать голову напарника скотчем</string>
+    <string name="stage2Other3">Разбить яйцо о голову напарнику</string>
+    <string name="stage2Other4">Сыграть "Имперский марш" ложкой по каструле на голове напарника</string>
+    <string name="stage2Other5">Замотать напарника голову туалетную бумагу и облить водой</string>
+    <string name="stage2Other6">Удалить у напарника 10 первых друзей из Соц. Сети</string>
+    <string name="stage2Other7">Кинуть напарнику 10 яйц</string>
+    <string name="stage2Other8">Протереть напарника влажными салфетками</string>
+
+
+    <!-- ІII -->
+    <string name="TextInstruction3">В этапе III вы снова выбираете по одельности. Если ваш выбор СОВПАДАЕТ, вы выполняете лиш одно задание.Если НЕТ то выполняете оба задания</string>
+    <string name="attention">Внимание</string>
+    <string name="warning">Сейчас Игрок 1 выбирает задание. Просьба Игрока 2 не смотреть в экран !</string>
+    <string name="toBegin">Начать</string>
+    <string name="stage_iii">Этап III</string>
+    <string name="infoResultS2">Игроки должны выполнить задания</string>
+    <string name="brs3">Начать этап III</string>
+    <string name="P1P2oneChallenge">  Игрок 1 и Игрок 2 должны выполнить только это задание</string>
+    <string name="P1P2twoChallenge">  Игрок 1 и Игрок 2 должны выполнить оба задания</string>
+    <string name="NextStage4">Перейти к Этапу IV</string>
+
+
+    <string name="stage3SexHurt1">Укусить друг друга за ягодицу без штанов</string>
+    <string name="stage3SexHurt2">Целоваться 20 сек</string>
+    <string name="stage3SexHurt3">Выпить текилу из пупка напарника</string>
+    <string name="stage3SexHurt4">Расстрелять друг друга из водяных пистолетов наполненных виски</string>
+    <string name="stage3SexHurt5">Целоваться минуту</string>
+    <string name="stage3SexHurt6">Сделать битбокс в пупок напарнику</string>
+    <string name="stage3SexHurt7">Подарить свои трусы напарнику</string>
+
+    <string name="stage3EatWorld1">Съесть по миску собачъего корма без помощи рук</string>
+    <string name="stage3EatWorld2">Cъесть тарелка холодних пельмений на двоих</string>
+    <string name="stage3EatWorld3">Сделать напарнику маску из меда</string>
+    <string name="stage3EatWorld4">Съесть мюсли залиты пивом</string>
+    <string name="stage3EatWorld5">Скормить напарнику целый лимон</string>
+    <string name="stage3EatWorld6">Снюхать по дорожке корицы </string>
+    <string name="stage3EatWorld7">Объявить о помолку в инстаграме и не удалять пост до завтра</string>
+    <string name="stage3EatWorld8">Написать бывшему(-ей) напарника признание в любви</string>
+    <string name="stage3EatWorld9">Разрезать банковскую карту</string>
+    <string name="stage3EatWorld10">Кинуть телефон друг друга экраном вниз</string>
+
+    <string name="stage3Head1">Дать друг другу по пять пощечин</string>
+    <string name="stage3Head2">Дать друг другу пощечину по три раза (сильнее предыдушего)</string>
+    <string name="stage3Head3">Сделать эпиляцию рук</string>
+    <string name="stage3Head4">Разбить яйцо в штаны напарника</string>
+    <string name="stage3Head5">Вместе подержать таракана(насекомое) в закрытых руках</string>
+    <string name="stage3Head6">Сделать друг другу эпиляцию рук</string>
+    <string name="stage3Head7">Сделать друг другу новую стрижку</string>
+    <string name="stage3Head8">Покрасить волосы</string>
+    <string name="stage3Head9">Кинуть друг друга торт в лицо и слизать его</string>
+
+    <!--IV-->
+
+    <string name="TextInstruction4"> В Этом раунде вы будете убирать задания по очереди, то которое останется нужно выполнить но вместе с вами будет играть бот Triangle </string>
+    <string name="brs4">Начать этап IV</string>
+    <string name="infoS4">Этап IV</string>
+    <string name="Toast2Stage4"> Вы не закончили этап IV</string>
+
+
+    <string name="stage4ItemsFace1">Засунуть язык в ухо друг друга</string>
+    <string name="stage4ItemsFace2">Коснуться кончиками языка</string>
+    <string name="stage4ItemsFace3">Облизать друг другу руки от кисти до плеча</string>
+    <string name="stage4ItemsFace4">Обклеить лицо друг друга леденцами</string>
+    <string name="stage4ItemsFace5">Сделать друг другу засос на животе</string>
+
+    <string name="stage4Hurt1">Избить лица друг друга мокрыми чайными пакетиками</string>
+    <string name="stage4Hurt2">Повесить по 5 прищепок куда угодно на теле</string>
+    <string name="stage4Hurt3">По пять ударов плеткой(ремнем) (каждый раз сильнее прошлого)</string>
+    <string name="stage4Hurt4">Сделать друг другу эпиляцию подмышек</string>
+    <string name="stage4Hurt5">Выдернуть друг у друга волос из носа</string>
+    <string name="stage4Hurt6">Выщипать несколько волос из носа напарника</string>
+
+    <string name="stage4Sex1">Рассказать о самом необычном сексе</string>
+    <string name="stage4Sex2">Рассказать о своем первом сексуальном опыте</string>
+    <string name="stage4Sex3">Станцевать друг для друга стриптиз до нижнего белья</string>
+    <string name="stage4Sex4">Надеть презерватив на банан ртом</string>
+    <string name="stage4Sex5">Укусить друг друга за попу через трусы</string>
+    <string name="stage4Sex6">Целоваться в течение минуты</string>
+
+    <string name="stage4DrinkEat1">Выпить по стакану горячей кока-колы</string>
+    <string name="stage4DrinkEat2">Выпить по стопке острого соус</string>
+    <string name="stage4DrinkEat3">Выпить по стакану оливкового рассола</string>
+    <string name="stage4DrinkEat4">Выпить по шоту подсолнечного масла</string>
+    <string name="stage4DrinkEat5">Выпить по стакану теплой воды с солью</string>
+    <string name="stage4DrinkEat6">Съесть одну сосиску на двоиз без использования рук</string>
+    <string name="stage4DrinkEat7">Разморозить ртом (пельмень, креветку, кубик льда)</string>
+    <string name="stage4DrinkEat8">Вместе съесть бургер(бутерброд) без использование рук</string>
+    <string name="stage4DrinkEat9">Съесть одну шаурму(бутерброд) на двоих</string>
+
+
+    <string name="stage4Sport1">Девушка отжимается на руках и ногах партнера</string>
+    <string name="stage4Sport2">Открыть по-очереди пузырек зеленки одной рукой</string>
+    <string name="stage4Sport3">Сделать точки зеленкою на лицах друг друга</string>
+    <string name="stage4Sport4">Спеть караоке без музыки под аккомпененты напарника</string>
+    <string name="stage4Sport5">Посидеть 20 сек на плечах друг друга</string>
+    <string name="stage4Sport6">Надавить стакан апельсинового сока лбами</string>
+    <string name="stage4Sport7">Смеяться полторы минуты</string>
+
+    <string name="stage4World1">Перевести бывшей(-му) 10зл(100грн)</string>
+    <string name="stage4World2">По очереди позвонить маме и сказать что ждешь ребенка</string>
+    <string name="stage4World3">Поменять аватар в любой соцсети на совместное фото с напарником</string>
+    <string name="stage4World4">Записать сторис с закрытой камерой и стонами</string>
+    <string name="stage4World5">Позвонить подруге (другу) и предложить им секс</string>
+    <string name="stage4World6">Отправить бывшему фото напарника</string>
+    <string name="stage4World7">Выложить в сторис свой поцелуй с напарником</string>
+    <string name="stage4World8">Выложить в сторис свой поцелуй</string>
+    <string name="stage4World9">Выложить в сторис напарника без верхней одежды</string>
+
+    <string name="stage4Face1">Намазать друг другу лицо тональным кремом</string>
+    <string name="stage4Face2">Намазать лицо напарника взбитыми сливками и слизать их</string>
+    <string name="stage4Face3">Намазать лицо нутелой и облизать</string>
+    <string name="stage4Face4">Вылить в карманы взбитые сливки</string>
+    <string name="stage4Face5">Вылить в карманы взбитые сливки</string>
+    <string name="stage4Face6">Сделать друг другу маску из взбитых сливок и слизать</string>
+    <string name="stage4Face7">Спеть припев любимой песни с полным ртом взбитых сливок</string>
+    <string name="stage4Face8">Намазать лицо медом и окунуть в тарелку с кунжутом</string>
+    <string name="stage4Face9">Сделать друг другу маску из горчицы</string>
+
+    <string name="stage4Other1">Покрасить друг другу волосы</string>
+    <string name="stage4Other2">Сделать друг другу новую стрижку</string>
+    <string name="stage4Other3">С закрытыми глазами прилепить жвачку друг другу в волосы</string>
+    <string name="stage4Other4">Вырезать друг другу на одежде соски-сердечка</string>
+    <string name="stage4Other5">Вынюхать дорожку черного перца</string>
+
+    <!--V-->
+    <string name="TextInstruction5">В Этом раунде вы увидите те задания, которые исключили первыми в прошлых этапах. Уберите каждый по 3 действия. А затем вместе выберити одно из двух оставшихся</string>
+
+    <string name="Toast2Stage5">Игроки должны вместе обсудить которое задание оставить</string>
+    <string name="Toast3Stage5"> Вы не закончили этап V</string>
+
+    <!--Final-->
+
+    <string name="TextFinal"> Мы не видим себя без соц. сетей, месенджеров. И не видим за этим других людей. Пройдя все 5 этапов вы доказали что выход из зоны комфорта и реальное общение зачистую зближает людей гораздо сильнее чем интернет общение. Спасибо что сыграли в игру !</string>
+
+
+</resources>

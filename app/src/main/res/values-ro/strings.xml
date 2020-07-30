@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Triangle</string>
+
+    <string name="add">Add</string>
+    <string name="start_game">Rozpocząć grę</string>
+    <string name="stage_ii">"  Перейти к этапу II"</string>
+    <string name="textview">TextView</string>
+    <string name="test">Test</string>
+    <string name="_2_1">Этап 2 Игрок 1</string>
+    <string name="_2_2">Этап 2 Игрок 2</string>
+
+    <string name="startbtnS3P2_">Передать ход Игроку 2</string>
+
+    <string name="InfoS3P2">Этап 3</string>
+    <string name="todo">TODO</string>
+    <string name="version">version 1.0</string>
+
+    <string name="infoS5">Etap V</string>
+    <string name="brs5">Rozpocznij etap V</string>
+    <string name="finalgame">Закончить</string>
+    <string name="finalggame">Завершить</string>
+    <string name="activity_final">Ukończenie</string>
+    <string name="menuGame">Przejdź do Menu</string>
+    <string name="welcome">Zapraszam</string>
+    <string name="btnchangeLang">Zmienic jezyk</string>
+    <string name="btnName">Przycisk</string>
+
+    <string name="backStartMenu">Wrócić do menu</string>
+
+
+    <string name="stage_i">Etap I</string>
+    <string name="TextInstruction1">W tej rundzie usuniesz kolejno zadania, które należy wykonać</string>
+    <string name="brs1">Rozpocznij etap I</string>
+
+    <string name="nextStage_i">Przejdź do Etapu II</string>
+    <string name="player_1">Gracz 1</string>
+    <string name="player_2">Gracz 2</string>
+
+    <string name="stage1drink1">Wypić 300 ml whisky na dwie osoby</string>
+    <string name="stage1drink2">Wypić na bruderszaf 100ml whisky i pocałujcie się</string>
+    <string name="stage1drink3">Wypić 300 ml koniaku na dwie osoby</string>
+    <string name="stage1drink4">Wypić po kieliszku tequilli i opowiedzcie swoją pijaną historię</string>
+    <string name="stage1drink5">Wypić kieliszek z brzucha partnera</string>
+    <string name="stage1drink6">Wypić kubek wódki</string>
+    <string name="stage1drink7">Wypić 1,5l piwa na dwie osoby</string>
+    <string name="stage1drink8">Wypić po butelce ciepłego piwa</string>
+
+    <string name="stage1ItemsFace1">Zróbcie sobie wzajemnie malinki</string>
+    <string name="stage1ItemsFace2">Pomalujcie sobie wzajemnie usta szminką</string>
+    <string name="stage1ItemsFace3">Umyjcie sobie wzajemnie zęby</string>
+    <string name="stage1ItemsFace4">Rozepnijcie sobie wzajemnie paski(rozporki) zębami</string>
+    <string name="stage1ItemsFace5">Rozepnij partnerowi pasek(biustonosz) zębami</string>
+
+    <string name="stage1Together1">Przypnijcie się do siebie kajdankami(paskiem)</string>
+    <string name="stage1Together2">Przyklejcie się do siebie taśmą na czas trwania tej rundy</string>
+    <string name="stage1Together3">Przypnijcie się paskami na czas całej gry</string>
+    <string name="stage1Together4">Zepnijcie swoje rękawy spinaczem(zszywaczem)</string>
+    <string name="stage1Together5">Przyklejcie do siebie swoje twarze za pomoca taśmy</string>
+
+    <string name="stage1Exchange1">Wymieńcie się gumami do żucia</string>
+    <string name="stage1Exchange2">Wymieńcie się koszulkami na czas gry</string>
+    <string name="stage1Exchange3">Wymieńcie się gotówką w portfelu</string>
+    <string name="stage1Exchange4">Test zaufania(jedno z was zamyka oczy i przechyla się w tył, drugie musi złapać)</string>
+    <string name="stage1Exchange5">Jeden chupa-chups na dwoje</string>
+    <string name="stage1Exchange6">Dmuchnij wodą w twarz drugiej osobie</string>
+
+    <string name="stage1Hurt1">Pocieraj kręgosłup drugiej osoby kostką lodu</string>
+    <string name="stage1Hurt2">Klepnij w tyłek 5 razy, mocniej z każdym razem</string>
+    <string name="stage1Hurt3">Klepnij w gołe plecy</string>
+    <string name="stage1Hurt4">Przypiąć na skórę po 5 klamerek do wieszania ubrań</string>
+    <string name="stage1Hurt5">Przypiąć klamerkę na nos na czas gry</string>
+    <string name="stage1Hurt6">Ugryźć w tyłek</string>
+
+    <string name="stage1Sex1">Pocałować się</string>
+    <string name="stage1Sex2">Obejrzeć razem porno</string>
+    <string name="stage1Sex3">Złapać partnera za krocze</string>
+    <string name="stage1Sex4">Zademonstrować ulubioną pozycję seksualną na sobie</string>
+    <string name="stage1Sex5">Zostać w samej bieliźnie do końca gry</string>
+    <string name="stage1Sex6">Przebrać się w strój kąpielowy na czas gry</string>
+
+    <string name="stage1Eat1">Zjeść szklankę cukru na dwoje</string>
+    <string name="stage1Eat2">Karmić galaretką(miodem) z zamkniętymi oczami</string>
+    <string name="stage1Eat3">Karmić tortem z zamkniętymi oczami</string>
+    <string name="stage1Eat4">Zjeść zupkę chińską rękami</string>
+    <string name="stage1Eat5">Karmić przecierem dla dzieci rękoma</string>
+    <string name="stage1Eat6">Karmić miodem z zamkniętymi oczami</string>
+    <string name="stage1Eat7">Zjeść po główce cebuli</string>
+    <string name="stage1Eat8">Zjeść jogurt rękami</string>
+    <string name="stage1Eat9">Zjeść po połówce arbuza bez użycia rąk (kto szybciej!)</string>
+    <string name="stage1Eat10">Pocałujcie się po zjedzeniu ząbka czosnku</string>
+    <string name="stage1Eat11">Zjeść po miseczce suchej karmy dla kotów z mlekiem</string>
+
+    <!-- II -->
+    <string name="TextInstruction2">Na etapie II dokonasz wyboru, zadanie, które odejdziesz, będzie dla ciebie łatwe, ale będzie testem dla twojego partnera</string>
+    <string name="attention">Uwaga !</string>
+    <string name="warning">Gracz 1 wybiera teraz wyzwanie. Prośba Gracza 2, aby nie patrzeć na ekran!</string>
+    <string name="toBegin">Rozpocząć</string>
+
+    <string name="selectPlayer2">Rozpocznij wybór gracza 2</string>
+    <string name="ToastStage2">Kliknij przycisk „Rozpocznij wybór gracza 2"</string>
+    <string name="challengePlayer1">Gracz 1 musi wybrać zadanie</string>
+    <string name="challengePlayer2">Gracz 2 musi wybrać wyzwanie</string>
+    <string name="StopBack">Po rozpoczęciu gry ZABRONIONE jest wracanie</string>
+    <string name="ToastResult">Kliknij przycisk "Wynik"</string>
+    <string name="resultat">Wynik</string>
+    <string name="NextStage3">Przejdź do kroku III</string>
+
+    <string name="brs2">Etap II</string>
+    <string name="nextStage_ii">Rozpocznij etap II</string>
+    <string name="infoStage1">Gracze muszą ukończyć wywanie</string>
+    <string name="Toast1Stage1">Wykonaj to zadanie i idź na nast. etap</string>
+    <string name="Toast2Stage1">Nie ukończyłeś etapu 1</string>
+
+    <string name="stage2ItemsFace1"> Włóż twarz partnera w tort</string>
+    <string name="stage2ItemsFace2">Zaklej całą twarz partnera taśmą klejącą</string>
+    <string name="stage2ItemsFace3">Narysuj obrazek dowolną częścią ciała partnera, z wyjątkiem rąk i nóg</string>
+    <string name="stage2ItemsFace4">Przyklej cukierki na twarz partnera</string>
+    <string name="stage2ItemsFace5">Rzuć gotowanym pierogiem do ust partnera</string>
+    <string name="stage2ItemsFace6">Poliż otwarte oko partnera</string>
+    <string name="stage2ItemsFace7">Nakarm swojego partnera miodem z dłoni</string>
+
+    <string name="stage2Paint1">Zrób partnerowi manicure</string>
+    <string name="stage2Paint2">Zrób partnerowi makijaż</string>
+    <string name="stage2Paint3">Daj klapsa partnerowi dłonią z farby</string>
+    <string name="stage2Paint4">Zrób partnerowi pedicure</string>
+    <string name="stage2Paint5">Zrób partnerowi makeup terrorysty</string>
+    <string name="stage2Paint6">Pomaluj twarz partnera markerem</string>
+    <string name="stage2Paint7">Oznacz markerem mięśnie tułowia partnera</string>
+    <string name="stage2Paint8">Narysuj raperskie tatuaże na twarzy partnera za pomocą długopisu żelowego</string>
+    <string name="stage2Paint9">Zrób znacznik tatuażu na pośladku partnera</string>
+    <string name="stage2Paint10">Pomaluj zęby partnera czarnym markerem</string>
+
+    <string name="stage2Hurt1">Zrób śliwkowy siniak</string>
+    <string name="stage2Hurt2">Wlej paczkę lodu do spodni partnera</string>
+    <string name="stage2Hurt3">Wlej szklankę Coca-Coli do spodni partnera</string>
+    <string name="stage2Hurt4">Put the fish in the cowards of a partner</string>
+    <string name="stage2Hurt5">Podrap plecy partnera</string>
+    <string name="stage2Hurt6">Zrób depilację nóg partnerowi</string>
+    <string name="stage2Hurt7">Zaklej taśmą głowę partnera</string>
+    <string name="stage2Hurt8">Przyklej dłonie partnera za pomocą superglue</string>
+    <string name="stage2Hurt9">Umieść spinacze do bielizny na sutkach partner</string>
+
+    <string name="stage2Cut1">Farbuj lakierem włosy</string>
+    <string name="stage2Cut2">Farbuj włosy partnera</string>
+    <string name="stage2Cut3">Ogol świątynię partnera</string>
+    <string name="stage2Cut4">Odetnij rękawy ubrania partnera</string>
+    <string name="stage2Cut5">Zrób partnerowi trzy dziury w spodniach (każda powinna być większa od drugiej)</string>
+    <string name="stage2Cut6">Zrób szorty z dzińsów partnera</string>
+    <string name="stage2Cut7">Rozerwij bieliznę partnera</string>
+    <string name="stage2Cut8">Wytnij grzywkę partnerowi</string>
+
+    <string name="stage2Other1">Wlać jogurt na głowę</string>
+    <string name="stage2Other2">Zaklej taśmą głowę partnera</string>
+    <string name="stage2Other3">Rozbij jajko na głowie partnera</string>
+    <string name="stage2Other4">Zagraj w „Imperial March” łyżką w rondlu na głowie partnera</string>
+    <string name="stage2Other5">Owiń głowę partnera papierem toaletowym i polej wodą</string>
+    <string name="stage2Other6">Usuń ze swojego partnera 10 pierwszych znajomych ze Społeczności. Sieci</string>
+    <string name="stage2Other7">Rzuć partnerowi 10 jajek</string>
+    <string name="stage2Other8">Wytrzyj partnera mokrymi chusteczkami</string>
+
+    <!--III-->
+    <string name="TextInstruction3">W etapie III ponownie wybierasz indywidualnie. Jeśli twój wybór pasuje, wykonujesz jedno zadanie. Jeśli NIE, to wykonaj oba zadania</string>
+    <string name="stage_iii">Etap III</string>
+    <string name="infoResultS2">Gracze muszą wykonać zadania</string>
+    <string name="brs3">Rozpocznij etap III</string>
+    <string name="P1P2oneChallenge">Gracz 1 i Gracz 2 muszą wykonać tylko to zadanie.</string>
+    <string name="P1P2twoChallenge">Gracz 1 i Gracz 2 muszą wykonać oba zadania</string>
+    <string name="NextStage4">Przejdź do etapu IV</string>
+
+    <string name="stage3SexHurt1">Ugryź się w pośladki bez spodni</string>
+    <string name="stage3SexHurt2">Całowanie 20 sekund</string>
+    <string name="stage3SexHurt3">Pij tequilę z pępka partnera</string>
+    <string name="stage3SexHurt4">Strzelaj do siebie z pistoletów wodnych wypełnionych whisky</string>
+    <string name="stage3SexHurt5">Całuję minutę</string>
+    <string name="stage3SexHurt6">Zrób beatbox w pępku partnera</string>
+    <string name="stage3SexHurt7">Przedstaw swoje majki swojemu partnerowi</string>
+
+    <string name="stage3EatWorld1">Jedz karmę dla psów bez rąk</string>
+    <string name="stage3EatWorld2">Zjedz talerz zimnych pierogów na dwoich</string>
+    <string name="stage3EatWorld3">Zrób partnerowi maskę miodu</string>
+    <string name="stage3EatWorld4">Jedz musli wypełnione piwem</string>
+    <string name="stage3EatWorld5">Nakarm koledze całą cytryną</string>
+    <string name="stage3EatWorld6">Wąchaj cynamonową ścieżkę </string>
+    <string name="stage3EatWorld7">Ogłoś zaangażowanie na Instagramie i nie usuwaj postu do jutra</string>
+    <string name="stage3EatWorld8">Napisz deklarację miłości do swojego byłego partnera</string>
+    <string name="stage3EatWorld9">Wytnij kartę bankową</string>
+    <string name="stage3EatWorld10">Rzuć sobie nawzajem telefony</string>
+
+    <string name="stage3Head1">Dajcie sobie 5 uderzeń w twarz</string>
+    <string name="stage3Head2">Uderzaj się w twarz trzy razy (silniej niż poprzednio)</string>
+    <string name="stage3Head3">Wykonaj ręczne usuwanie włosów</string>
+    <string name="stage3Head4">Rozbij jajko na spodnie partnera</string>
+    <string name="stage3Head5">Trzymaj karalucha (owada) w dłoniach razem</string>
+    <string name="stage3Head6">Wykonujcie wzajemną depilację włosów (układanie, taśma klejąca, wosk)</string>
+    <string name="stage3Head7">Stwórzcie sobie wzajemnie nową fryzurę</string>
+    <string name="stage3Head8">Zafarbuj włosy</string>
+    <string name="stage3Head9">Rzuć sobie tarte w twarz i polizaj je</string>
+
+    <!--IV-->
+
+    <string name="TextInstruction4"> W tej rundzie z kolei usuniesz zadania, które pozostają do wykonania, ale robot Trójkąt będzie z tobą grał </string>
+    <string name="brs4">Rozpocznij etap IV</string>
+    <string name="infoS4">Etap IV</string>
+    <string name="Toast2Stage4"> Nie ukończyłeś etapu IV</string>
+
+    <string name="stage4ItemsFace1">Włóżcie sobie język do ucha</string>
+    <string name="stage4ItemsFace2">Dotknij końcówek języka</string>
+    <string name="stage4ItemsFace3">Polizaj sobie nawzajem ręce od ręki do ramienia</string>
+    <string name="stage4ItemsFace4">Wklej sobie cukierki na twarz</string>
+    <string name="stage4ItemsFace5">Sprawcie, by nawzajem ssali sobie brzuch</string>
+
+    <string name="stage4Hurt1">Uderzajcie się nawzajem w mokre torebki z herbatą</string>
+    <string name="stage4Hurt2">Zawieś 5 spinaczy do bielizny w dowolnym miejscu na ciele</string>
+    <string name="stage4Hurt3">Pięć rzęs (pas) (za każdym razem mocniejszych niż w przeszłości)</string>
+    <string name="stage4Hurt4">Zrób sobie nawzajem usuwanie włosów pod pachami</string>
+    <string name="stage4Hurt5">Wyciągnij sobie nawzajem włosy</string>
+    <string name="stage4Hurt6">Wyciągnij sobie nawzajem włosy</string>
+
+    <string name="stage4Sex1">Mów o najbardziej niezwykłym seksie</string>
+    <string name="stage4Sex2">Opowiedz mi o swoich pierwszych doświadczeniach seksualnych</string>
+    <string name="stage4Sex3">Zatańcz dla siebie striptiz do bielizny</string>
+    <string name="stage4Sex4">Połóż prezerwatywę na ustach banana</string>
+    <string name="stage4Sex5">Ugryźcie się nawzajem w majtki</string>
+    <string name="stage4Sex6">Całuj przez chwilę</string>
+
+    <string name="stage4DrinkEat1">Wypij szklankę gorącej Coca-Coli</string>
+    <string name="stage4DrinkEat2">Wypij stos gorącego sosu</string>
+    <string name="stage4DrinkEat3">Wypij szklankę marynowanej oliwki</string>
+    <string name="stage4DrinkEat4">Wypij kieliszek oleju słonecznikowego</string>
+    <string name="stage4DrinkEat5">Wypij szklankę ciepłej wody z solą</string>
+    <string name="stage4DrinkEat6">Zjedz jedną kiełbasę dla dwojga bez użycia rąk</string>
+    <string name="stage4DrinkEat7">Odwilż z ustami (pierogi, krewetki, kostka lodu)</string>
+    <string name="stage4DrinkEat8">Zjedz burgera (kanapkę) razem bez użycia rąk</string>
+    <string name="stage4DrinkEat9">Zjedz jedną shawarmę (kanapkę) dla dwóch osób</string>
+
+
+    <string name="stage4Sport1">Dziewczyna pompki na rękach i nogach partnera</string>
+    <string name="stage4Sport2">Otwórz kolejno zieloną bańkę jedną ręką</string>
+    <string name="stage4Sport3">Zielone kropki na twarzach innych</string>
+    <string name="stage4Sport4">Śpiewaj karaoke bez muzyki przy akompaniamencie partnera</string>
+    <string name="stage4Sport5">Usiądź 20 sekund na swoich ramionach</string>
+    <string name="stage4Sport6">Naciśnij szklankę soku pomarańczowego z czołami</string>
+    <string name="stage4Sport7">Śmiej się półtorej minuty</string>
+
+    <string name="stage4World1">Zrobić przelew 10 zł (100 UAH) dla byłego</string>
+    <string name="stage4World2">Z kolei zadzwoń do mamy i powiedz, że spodziewasz się dziecka</string>
+    <string name="stage4World3">Zmień awatar w dowolnej sieci społecznościowej na wspólne zdjęcie z partnerem</string>
+    <string name="stage4World4">Nagraj historię z zamkniętą kamerą i jękami</string>
+    <string name="stage4World5">Zadzwoń do dziewczyny (przyjaciela) i zaoferuj im seks</string>
+    <string name="stage4World6">Wyślij zdjęcie byłego partnera</string>
+    <string name="stage4World7">Pocałuj z partnerem w opowieści</string>
+    <string name="stage4World8">Umieść swój pocałunek w opowieści</string>
+    <string name="stage4World9">Umieść historię partnera bez odzieży wierzchniej</string>
+
+    <string name="stage4Face1">Posmarować się nawzajem podkładem</string>
+    <string name="stage4Face2">Rozłóż partnera z bitą śmietaną i polizaj</string>
+    <string name="stage4Face3">Posmaruj twarz nutellą i polizaj</string>
+    <string name="stage4Face4">Wlej bitą śmietanę do kieszeni</string>
+    <string name="stage4Face5">Zrób z siebie maskę z bitą śmietaną</string>
+    <string name="stage4Face6">Zrób sobie maskę z bitą śmietaną i polizaj</string>
+    <string name="stage4Face7">Zaśpiewaj refren swojej ulubionej piosenki ustami pełnymi bitej śmietany</string>
+    <string name="stage4Face8">Rozłóż twarz miodem i zanurz w talerzu z sezamem</string>
+    <string name="stage4Face9">Zrób sobie nawzajem musztardową maskę</string>
+
+    <string name="stage4Other1">Farbujcie nawzajem włosy</string>
+    <string name="stage4Other2">Stwórzcie sobie nową fryzurę</string>
+    <string name="stage4Other3">Przy zamkniętych oczach przyklej gumę do włosów</string>
+    <string name="stage4Other4">Wytnij się nawzajem na ubraniach sutki-serca</string>
+    <string name="stage4Other5">Wąchaj ścieżkę czarnego pieprzu</string>
+
+    <!--V-->
+    <string name="TextInstruction5">W tej rundzie zobaczysz zadania, które zostały wykluczone jako pierwsze w poprzednich etapach. Usuń każdą z 3 akcji. A następnie wspólnie wybierz jedną z dwóch pozostałych</string>
+    <string name="Toast2Stage5">Gracze muszą wspólnie przedyskutować, które zadanie odejść</string>
+    <string name="Toast3Stage5"> Nie ukończyłeś etapu V</string>
+
+    <!--Final-->
+
+    <string name="TextFinal">Nie widzimy siebie bez usług socjalnych. sieci, komunikatory internetowe. I nie widzimy za tym innych ludzi. Po przejściu wszystkich 5 etapów udowodniłeś, że opuszczenie strefy komfortu i prawdziwa komunikacja czysto zbliża ludzi do siebie niż komunikacja internetowa. Dziękujemy za grę!</string>
+    <string name="NextStage5">Przejdź do etapu V</string>
+
+
+</resources>

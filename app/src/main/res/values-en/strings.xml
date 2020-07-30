@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Triangle</string>
+
+    <string name="add">Add</string>
+    <string name="start_game">Start Game</string>
+    <string name="stage_ii">"  Перейти к этапу II"</string>
+    <string name="textview">TextView</string>
+    <string name="test">Test</string>
+    <string name="_2_1">Этап 2 Игрок 1</string>
+    <string name="_2_2">Этап 2 Игрок 2</string>
+
+    <string name="startbtnS3P2_">Передать ход Игроку 2</string>
+    <string name="InfoS3P2">Этап 3</string>
+    <string name="todo">TODO</string>
+    <string name="version">version 1.0</string>
+    <string name="infoS5">Stage V</string>
+    <string name="brs5">Start Stage V</string>
+    <string name="finalgame">Закончить</string>
+    <string name="finalggame">Complete</string>
+    <string name="activity_final">Completion</string>
+    <string name="menuGame">Go to Menu</string>
+    <string name="NextStage5">Go to Step V</string>
+    <string name="welcome">Welcome</string>
+    <string name="btnchangeLang">Change Language</string>
+    <string name="btnName">Button</string>
+
+    <string name="backStartMenu">Back</string>
+
+
+
+    <string name="stage_i">Stage I</string>
+    <string name="TextInstruction1">In this round you will remove tasks in turn, which remains to be completed</string>
+    <string name="brs1">Start Stage I</string>
+
+    <string name="nextStage_i">Go to Stage II</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="infoStage1">Players must complete the mission.</string>
+    <string name="Toast1Stage1">Do this task and go to the next stage</string>
+    <string name="Toast2Stage1">Nie ukończyłeś etapu 1</string>
+
+
+    <string name="stage1drink1">Drink 300 grams of whiskey for two</string>
+    <string name="stage1drink2">Drink 100 grams of whiskey per brudershaft + kiss</string>
+    <string name="stage1drink3">Drink 300 grams of brandy for two</string>
+    <string name="stage1drink4">Drink together a pile of tequila and tell your most drunken story</string>
+    <string name="stage1drink5">Drink a glass of alcohol from your partner’s stomach</string>
+    <string name="stage1drink6">Drink a glass of vodka</string>
+    <string name="stage1drink7">Drink a 1,5l of beer for two</string>
+    <string name="stage1drink8">Drink a bottle of warm beer</string>
+
+    <string name="stage1ItemsFace1">Make each other a hickey in the neck</string>
+    <string name="stage1ItemsFace2">Make up each other`s lips</string>
+    <string name="stage1ItemsFace3">Brush each other`s teeth</string>
+    <string name="stage1ItemsFace4">Teeth to unfasten each other`s belts (fly)</string>
+    <string name="stage1ItemsFace5">To unfasten a partner’s belt or bra</string>
+
+    <string name="stage1Together1">Handcuff (rope) until the end of the game</string>
+    <string name="stage1Together2">Bring tape to each other to the next. round</string>
+    <string name="stage1Together3">Fasten your seat belts until the end of the game</string>
+    <string name="stage1Together4">Fasten each other`s sleeves with a stapler</string>
+    <string name="stage1Together5">Tape each other`s face with tape</string>
+
+    <string name="stage1Exchange1">Exchange chewing gum</string>
+    <string name="stage1Exchange2">Swap outerwear for the rest of the game</string>
+    <string name="stage1Exchange3">Exchange all cash in wallet</string>
+    <string name="stage1Exchange4">Trust test (one of you closes your eyes and tilts back, the other must catch)</string>
+    <string name="stage1Exchange5">Dissolve one lollipop for two</string>
+    <string name="stage1Exchange6">Blow water (mouth) into each other`s face</string>
+
+    <string name="stage1Hurt1">Rub each other in the back on an ice cube</string>
+    <string name="stage1Hurt2">Slap each other in the ass 5 times (each time stronger than the previous one)</string>
+    <string name="stage1Hurt3">Slap each other`s bare back so that there is a mark</string>
+    <string name="stage1Hurt4">Attach each other to the skin with five clothespins</string>
+    <string name="stage1Hurt5">Spend the rest of the game with a clothespin on your nose</string>
+    <string name="stage1Hurt6">Bite each other`s ass</string>
+
+    <string name="stage1Sex1">Kiss</string>
+    <string name="stage1Sex2">Watch porn together</string>
+    <string name="stage1Sex3">Grab each other`s crotch</string>
+    <string name="stage1Sex4">Show favorite sex pose on top of each other</string>
+    <string name="stage1Sex5">Strip to underwear for the rest of the game</string>
+    <string name="stage1Sex6">Change into beachwear until the end of the game</string>
+
+    <string name="stage1Eat1">Eat a glass of sugar for two</string>
+    <string name="stage1Eat2">Feed each other jelly (honey) with eyes closed</string>
+    <string name="stage1Eat3">Feed each other blindfold cake</string>
+    <string name="stage1Eat4">Eat a quick soup with your hands</string>
+    <string name="stage1Eat5">Feed the mate with baby puree</string>
+    <string name="stage1Eat6">Feed each other honey with eyes closed</string>
+    <string name="stage1Eat7">Eat onion head</string>
+    <string name="stage1Eat8">Eat yogurt with hands</string>
+    <string name="stage1Eat9">Eat half a watermelon without hands (at speed)</string>
+    <string name="stage1Eat10">Eat 1 clove of garlic and kiss</string>
+    <string name="stage1Eat11">Eat cat dry milk in a bowl</string>
+
+    <!-- II -->
+    <string name="TextInstruction2">In stage II, you will make a choice in turn, the task that you leave will be easy for you, but will be a test for your partner</string>
+    <string name="attention">Attention</string>
+    <string name="warning">Player 1 is now selecting a quest. Player 2`s request not to look at the screen!</string>
+    <string name="toBegin">To begin</string>
+
+    <string name="selectPlayer2">Start player selection 2</string>
+    <string name="ToastStage2">Click the "Start Player 2 Selection" button</string>
+    <string name="challengePlayer1">Player 1 must choose a task</string>
+    <string name="challengePlayer2">Player 2 must choose a task</string>
+    <string name="StopBack">After the start of the game it is FORBIDDEN to go back</string>
+    <string name="ToastResult">Click the Result button</string>
+    <string name="resultat">Result</string>
+    <string name="NextStage3">Go to Step III</string>
+
+    <string name="brs2">Stage II</string>
+    <string name="nextStage_ii">Start stage II</string>
+
+    <string name="stage2ItemsFace1">Put your partner`s face into a cake</string>
+    <string name="stage2ItemsFace2">Tape your partner`s entire face with duck tape</string>
+    <string name="stage2ItemsFace3">Draw a picture with any part of the partner’s body, except for arms and legs</string>
+    <string name="stage2ItemsFace4">Paste candy on your partner`s face</string>
+    <string name="stage2ItemsFace5">Throw a boiled dumpling into your partner`s mouth</string>
+    <string name="stage2ItemsFace6">Lick your parnet`s eye while it`s open</string>
+    <string name="stage2ItemsFace7">Feed your partner honey with the palm of your hand </string>
+
+    <string name="stage2Paint1">Manicure your partner`s hands</string>
+    <string name="stage2Paint2">Makeup your partner`s face</string>
+    <string name="stage2Paint3">Slap your partner with your hand covered in paint</string>
+    <string name="stage2Paint4">Pedicure your parnter`s feet</string>
+    <string name="stage2Paint5">Using makeup make your partner a terrorist look</string>
+    <string name="stage2Paint6">Paint your partner’s face with a marker</string>
+    <string name="stage2Paint7">Mark with a marker the muscles on the torso of your partner</string>
+    <string name="stage2Paint8">Using a pen, draw rapper tattoos on the face of a partner</string>
+    <string name="stage2Paint9">Make a tattoo marker on the buttock of a partner</string>
+    <string name="stage2Paint10">Paint your partner`s teeth with a black marker</string>
+
+    <string name="stage2Hurt1">Make a plum bruise</string>
+    <string name="stage2Hurt2">Pour a pack of ice into your partner`s pants</string>
+    <string name="stage2Hurt3">Pour a glass of Coca-Cola into your partner`s pants</string>
+    <string name="stage2Hurt4">Put the fish in the cowards of a partner</string>
+    <string name="stage2Hurt5">Scratch your partner`s back</string>
+    <string name="stage2Hurt6">Make a hair removal of a partner</string>
+    <string name="stage2Hurt7">Tape your partner`s head with tape</string>
+    <string name="stage2Hurt8">Glue the partner`s palms with superglue</string>
+    <string name="stage2Hurt9">Put clothespins on the partner`s nipples</string>
+
+    <string name="stage2Cut1">Dye your hair spray</string>
+    <string name="stage2Cut2">Dye your partnee`s hair</string>
+    <string name="stage2Cut3">Shave a partner`s temple</string>
+    <string name="stage2Cut4">Cut off the sleeves of the partner`s clothes</string>
+    <string name="stage2Cut5">Make a partner three holes in his pants (each should be larger than the other)</string>
+    <string name="stage2Cut6">Turn your partner`s jeans into shorts</string>
+    <string name="stage2Cut7">Tear your partner underwear with your hands</string>
+    <string name="stage2Cut8">Cut bangs to a partner</string>
+
+    <string name="stage2Other1">Pour yogurt on the head</string>
+    <string name="stage2Other2">Tape your partner`s head with tape</string>
+    <string name="stage2Other3">Break the egg on the head of a partner</string>
+    <string name="stage2Other4">Play "Imperial March" with a spoon in a saucepan on the head of a partner</string>
+    <string name="stage2Other5">Wrap partner`s head on toilet paper and pour water over it</string>
+    <string name="stage2Other6">Remove from your partner 10 first friends from Social. Networks</string>
+    <string name="stage2Other7">Throw a partner 10 eggs</string>
+    <string name="stage2Other8">Wipe workmate with wet wipes</string>
+
+
+    <!--III-->
+    <string name="TextInstruction3">In stage III, you again select individually. If your choice MATCHES, you complete one task. If NO, then perform both tasks</string>
+    <string name="stage_iii">Stage III</string>
+    <string name="infoResultS2">Players must complete tasks</string>
+    <string name="brs3">Start stage III</string>
+    <string name="P1P2oneChallenge">Player 1 and Player 2 only have to do this task</string>
+    <string name="P1P2twoChallenge">Player 1 and Player 2 must complete both tasks</string>
+    <string name="NextStage4">Go to Step IV</string>
+
+
+
+    <string name="stage3SexHurt1">Bite each other`s buttocks without pants</string>
+    <string name="stage3SexHurt2">Kissing 20 sec</string>
+    <string name="stage3SexHurt3">Drink tequila from a partner`s navel</string>
+    <string name="stage3SexHurt4">Shoot each other out of water guns filled with whiskey</string>
+    <string name="stage3SexHurt5">Kissing a minute</string>
+    <string name="stage3SexHurt6">Make a beatbox in the navel of a partner</string>
+    <string name="stage3SexHurt7">Present your cowards to your partner
+</string>
+
+    <string name="stage3EatWorld1">Eat dog food without hands</string>
+    <string name="stage3EatWorld2">Eat a plate of cold dumplings for two</string>
+    <string name="stage3EatWorld3">Make a partner a mask of honey</string>
+    <string name="stage3EatWorld4">Eat muesli filled with beer</string>
+    <string name="stage3EatWorld5">Feed your partner a whole lemon</string>
+    <string name="stage3EatWorld6">Sniff the cinnamon path </string>
+    <string name="stage3EatWorld7">Announce the engagement on Instagram and do not delete the post until tomorrow</string>
+    <string name="stage3EatWorld8">Write a declaration of love to your former partner</string>
+    <string name="stage3EatWorld9">Cut bank card</string>
+    <string name="stage3EatWorld10">Throw each other`s phones face down</string>
+
+    <string name="stage3Head1">Give each other five slaps in the face</string>
+    <string name="stage3Head2">Give each other a slap in the face three times (stronger than the previous one)</string>
+    <string name="stage3Head3">Do hand hair removal</string>
+    <string name="stage3Head4">Break the egg into your partner`s pants</string>
+    <string name="stage3Head5">Hold the cockroach (insect) in your hands together</string>
+    <string name="stage3Head6">Make each other`s hair depilation (laying, adhesive tape, wax)</string>
+    <string name="stage3Head7">Make each other a new haircut</string>
+    <string name="stage3Head8">Dye your hair</string>
+    <string name="stage3Head9">Throw each other`s cake in the face and lick it</string>
+
+    <!--IV-->
+
+    <string name="TextInstruction4"> In this round, you will remove tasks in turn, which remains to be completed but the Triangle bot will play with you </string>
+    <string name="brs4">Start stage IV</string>
+    <string name="infoS4">Stage IV</string>
+    <string name="Toast2Stage4">You have not finished stage IV</string>
+
+    <string name="stage4ItemsFace1">Put your tongue in each other`s ear</string>
+    <string name="stage4ItemsFace2">Touch the tips of the tongue</string>
+    <string name="stage4ItemsFace3">Lick each other`s hands from the hand to the shoulder</string>
+    <string name="stage4ItemsFace4">Paste candy on each other`s face</string>
+    <string name="stage4ItemsFace5">Make each other suck on their stomach</string>
+
+    <string name="stage4Hurt1">Beat each other`s faces with wet tea bags</string>
+    <string name="stage4Hurt2">Hang 5 clothespins anywhere on the body</string>
+    <string name="stage4Hurt3">Five lashes (belt) (each time stronger than the past)</string>
+    <string name="stage4Hurt4">Make each other armpit hair removal</string>
+    <string name="stage4Hurt5">Pull each other`s nose hair</string>
+    <string name="stage4Hurt6">Pluck a few hairs from the partner’s nose</string>
+
+    <string name="stage4Sex1">Talk about the most unusual sex</string>
+    <string name="stage4Sex2">Tell me about your first sexual experience.</string>
+    <string name="stage4Sex3">Dance for each other striptease to underwear</string>
+    <string name="stage4Sex4">Put a condom on a banana mouth</string>
+    <string name="stage4Sex5">Bite each other`s ass through his underpants</string>
+    <string name="stage4Sex6">Kiss for a minute</string>
+
+    <string name="stage4DrinkEat1">Have a glass of hot Coca-Cola</string>
+    <string name="stage4DrinkEat2">Drink a stack of hot sauce</string>
+    <string name="stage4DrinkEat3">Drink a glass of olive pickle</string>
+    <string name="stage4DrinkEat4">Drink a shot of sunflower oil</string>
+    <string name="stage4DrinkEat5">Drink a glass of warm water with salt</string>
+    <string name="stage4DrinkEat6">Eat one sausage for two without using hands</string>
+    <string name="stage4DrinkEat7">Thaw with mouth (dumpling, shrimp, ice cube)</string>
+    <string name="stage4DrinkEat8">Eat a burger (sandwich) together without using hands</string>
+    <string name="stage4DrinkEat9">Eat one shawarma (sandwich) for two</string>
+
+
+    <string name="stage4Sport1">Girl push ups on partner`s arms and legs</string>
+    <string name="stage4Sport2">Open in turn the green bubble with one hand</string>
+    <string name="stage4Sport3">Make dots green on each other’s faces</string>
+    <string name="stage4Sport4">Sing karaoke without music to the accompaniment of a partner</string>
+    <string name="stage4Sport5">Sit 20 seconds on each other`s shoulders</string>
+    <string name="stage4Sport6">Press a glass of orange juice with foreheads</string>
+    <string name="stage4Sport7">Laugh one and a half minutes</string>
+
+    <string name="stage4World1">Translate former (s) 10 zl (100 UAH)</string>
+    <string name="stage4World2">In turn, call mom and say that you are expecting a baby</string>
+    <string name="stage4World3">Change the avatar in any social network to a joint photo with a partner</string>
+    <string name="stage4World4">Record a story with a closed camera and groans</string>
+    <string name="stage4World5">Call a girlfriend (friend) and offer them sex</string>
+    <string name="stage4World6">Send ex-partner photo</string>
+    <string name="stage4World7">Put your kiss with a partner in story</string>
+    <string name="stage4World8">Put your kiss in story</string>
+    <string name="stage4World9">Put in a partner`s story without outerwear</string>
+
+    <string name="stage4Face1">To smear each other`s face with foundation</string>
+    <string name="stage4Face2">Spread face mate with whipped cream and lick them</string>
+    <string name="stage4Face3">Smear your face with nutella and lick</string>
+    <string name="stage4Face4">Pour whipped cream into pockets</string>
+    <string name="stage4Face5">Make each other a whipped cream mask</string>
+    <string name="stage4Face6">Make each other a mask of whipped cream and lick</string>
+    <string name="stage4Face7">Sing a chorus of your favorite song with a mouth full of whipped cream</string>
+    <string name="stage4Face8">Spread face with honey and dip in a plate with sesame seeds</string>
+    <string name="stage4Face9">Make each other a mustard mask</string>
+
+    <string name="stage4Other1">Dye each other`s hair</string>
+    <string name="stage4Other2">Make each other a new haircut</string>
+    <string name="stage4Other3">With closed eyes, stick gum to each other`s hair</string>
+    <string name="stage4Other4">Cut each other on clothes nipples-hearts</string>
+    <string name="stage4Other5">Sniff out a path of black pepper</string>
+
+    <!--V-->
+    <string name="TextInstruction5">In this round you will see those tasks that were excluded first in the previous stages. Remove each of 3 actions. And then together choose one of the two remaining</string>
+    <string name="Toast2Stage5">Players must discuss together which task to leave</string>
+    <string name="Toast3Stage5">You have not finished stage V</string>
+
+    <!--Final-->
+
+    <string name="TextFinal"> We do not see ourselves without social services. networks, instant messengers. And we do not see other people behind it. After going through all 5 stages, you have proven that leaving the comfort zone and real communication cleanly brings people closer to each other than Internet communication. Thank you for playing the game!</string>
+
+
+</resources>
